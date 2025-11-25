@@ -54,6 +54,8 @@ O dashboard final permite uma análise completa do desempenho de vendas, incluin
 *   **Análise Detalhada:** Top 5 Clientes e Produtos, distribuição geográfica (UF e Cidade).
 
 ### Link para o Dashboard
+Para ter acesso ao dashboard e o modelo semântico, é necessário que você baixe ele e execute no power BI desktop
 <p>
-📊 <a href="https://app.powerbi.com/view?r=eyJrIjoiYzYwYzdjYjEtNDk4ZS00ODBhLThmMTAtMTQ3ZmIzNmY4MDVhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank">Visualizar Dashboard no Power BI</a>
+📊 <a href="https://github.com/NascimentoVitorDEV/ProjetoErpETL/tree/main/Dashboard" target="_blank">Visualizar Dashboard no Power BI</a>
 </p>
+
