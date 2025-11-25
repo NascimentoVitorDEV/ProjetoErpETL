@@ -54,3 +54,6 @@ O dashboard final permite uma análise completa do desempenho de vendas, incluin
 *   **Análise Detalhada:** Top 5 Clientes e Produtos, distribuição geográfica (UF e Cidade).
 
 ### Link para o Dashboard
+<p>
+📊 <a href="https://app.powerbi.com/view?r=eyJrIjoiYzYwYzdjYjEtNDk4ZS00ODBhLThmMTAtMTQ3ZmIzNmY4MDVhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank">Visualizar Dashboard no Power BI</a>
+</p>
